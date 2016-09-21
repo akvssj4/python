@@ -1,0 +1,8 @@
+2016-08-30
+Learning python datetime package
+2016-08-30 10:30:8
+Learning python datetime package 2
+2016-08-30 10:34:4
+Learning python datetime package 3
+2016-08-30 Tuesday, 30. August 2016 10:35AM
+Learning python datetime package 4
