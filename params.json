@@ -1,0 +1,6 @@
+{
+  "name": "My Experiments in Python",
+  "tagline": "Python code snippets",
+  "body": "### This is my first GITHub page\r\nI am hosting some of the stuff that I have done while learning Python.\r\n\r\nThese are some ideas that I want to expand on in the future(none of these are even nearly complete!).\r\n\r\nBasically I'd like to make some tasks easier to accomplish from the command line itself.\r\n\r\nNote: All the code is in Python 2.7",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
